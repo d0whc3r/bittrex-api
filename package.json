@@ -1,5 +1,5 @@
 {
-  "name": "bittrex-api",
+  "name": "bittrex.api",
   "version": "0.0.1",
   "description": "Bittrex websocket and rest api",
   "keywords": [
