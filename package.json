@@ -22,7 +22,7 @@
   "author": "d0whc3r@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "cloudscraper": "^1.4.1",
+    "cloudscraper": "^2.0.0",
     "jssha": "^2.3.1",
     "request": "^2.81.0",
     "signalr-client": "0.0.19"
